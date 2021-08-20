@@ -1,0 +1,4 @@
+Iconsys Dark Blue: #002244
+Iconsys Bright Blue: #0073CF
+Iconsys Light Blue: #C7D9EC
+Iconsys Light Grey: #F0EFEF

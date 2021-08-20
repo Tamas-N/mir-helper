@@ -1,0 +1,60 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>MiR_Helper</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="favicon-32x32.png" />
+    <None Remove="fonts\gilroy-black.otf" />
+    <None Remove="fonts\gilroy-blackitalic.otf" />
+    <None Remove="fonts\gilroy-bold.otf" />
+    <None Remove="fonts\gilroy-bolditalic.otf" />
+    <None Remove="fonts\Gilroy-ExtraBold.otf" />
+    <None Remove="fonts\gilroy-extrabolditalic.otf" />
+    <None Remove="fonts\gilroy-heavy.otf" />
+    <None Remove="fonts\gilroy-heavyitalic.otf" />
+    <None Remove="fonts\gilroy-light.otf" />
+    <None Remove="fonts\gilroy-lightitalic.otf" />
+    <None Remove="fonts\gilroy-medium.otf" />
+    <None Remove="fonts\gilroy-mediumitalic.otf" />
+    <None Remove="fonts\gilroy-regular.otf" />
+    <None Remove="fonts\gilroy-regularitalic.otf" />
+    <None Remove="fonts\gilroy-semibold.otf" />
+    <None Remove="fonts\gilroy-semibolditalic.otf" />
+    <None Remove="fonts\gilroy-thin.otf" />
+    <None Remove="fonts\gilroy-thinitalic.otf" />
+    <None Remove="fonts\gilroy-ultralight.otf" />
+    <None Remove="fonts\gilroy-ultralightitalic.otf" />
+    <None Remove="imgs\mirHelper.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="favicon-32x32.png" />
+    <Resource Include="fonts\gilroy-black.otf" />
+    <Resource Include="fonts\gilroy-blackitalic.otf" />
+    <Resource Include="fonts\gilroy-bold.otf" />
+    <Resource Include="fonts\gilroy-bolditalic.otf" />
+    <Resource Include="fonts\Gilroy-ExtraBold.otf" />
+    <Resource Include="fonts\gilroy-extrabolditalic.otf" />
+    <Resource Include="fonts\gilroy-heavy.otf" />
+    <Resource Include="fonts\gilroy-heavyitalic.otf" />
+    <Resource Include="fonts\gilroy-light.otf" />
+    <Resource Include="fonts\gilroy-lightitalic.otf" />
+    <Resource Include="fonts\gilroy-medium.otf" />
+    <Resource Include="fonts\gilroy-mediumitalic.otf" />
+    <Resource Include="fonts\gilroy-regular.otf" />
+    <Resource Include="fonts\gilroy-regularitalic.otf" />
+    <Resource Include="fonts\gilroy-semibold.otf" />
+    <Resource Include="fonts\gilroy-semibolditalic.otf" />
+    <Resource Include="fonts\gilroy-thin.otf" />
+    <Resource Include="fonts\gilroy-thinitalic.otf" />
+    <Resource Include="fonts\gilroy-ultralight.otf" />
+    <Resource Include="fonts\gilroy-ultralightitalic.otf" />
+    <Resource Include="imgs\mirHelper.ico" />
+  </ItemGroup>
+
+</Project>
