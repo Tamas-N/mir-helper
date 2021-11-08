@@ -33,6 +33,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="NPOI" Version="2.5.4" />
+    <PackageReference Include="RestSharp" Version="106.12.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Resource Include="favicon-32x32.png" />
     <Resource Include="fonts\gilroy-black.otf" />
     <Resource Include="fonts\gilroy-blackitalic.otf" />
